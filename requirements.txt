@@ -2,4 +2,4 @@ arxiv
 feedparser
 requests
 sentence-transformers
-pinecone
+pinecone-client
