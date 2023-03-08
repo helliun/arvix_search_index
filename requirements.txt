@@ -1,0 +1,5 @@
+arxiv
+feedparser
+requests
+sentence-transformers
+pinecone
