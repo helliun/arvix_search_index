@@ -8,7 +8,7 @@ This is a Python class that provides an interface to create an index in Pinecone
 This module requires the feedparser, requests, sentence-transformers, pinecone, and arxiv Python libraries. If these are not installed on your system, you can install them using pip.
 
 sh
-pip install feedparser requests sentence-transformers pinecone arxiv
+pip install feedparser requests sentence-transformers pinecone-client arxiv
 
 
 ### Usage
